@@ -1,0 +1,8 @@
+[Oo]bj/
+[Bb]in/
+*.sln.cache
+*.suo
+*.user
+/TestResults
+_ReSharper*/
+*.resharper
